@@ -10,13 +10,11 @@ This version has been stripped down and reconfigured to work on IPFS with Fleek.
 
 To get started with the starter:
 
-git clone https://github.com/lpgcode/nextjs_mxd_blog_onfleek.git || hit Template, and do your git business over yonder.
-
-After you have your IDE ready just head to the terminal path:
+git clone https://github.com/lpgcode/nextjs_mxd_blog_onfleek.git
 
 npm install && npm run dev - and then start styling
 
-When ready slap down all your git commands and do what must be done to "git" it to your GitHub. Yes I make funny, very good.
+When ready slap down all your git commands (make sure your origin is yours!) and do what must be done to "git" it to your GitHub. Yes I make funny, very good.
 
 Then just point https://fleek.co/ to your repo and BAM just like that you can get back to your regularly scheduled JAM stack workflow, now on IPFS. Thanks Fleek!
 
