@@ -14,9 +14,9 @@ git clone https://github.com/lpgcode/nextjs_mxd_blog_onfleek.git
 
 npm install && npm run dev - and then start styling.
 
-When you're ready change the origin to your own repo, slap down all your git commands and do what must be done to "git" it to your GitHub. Yes I make funny, very good.
+When ready change the origin to your own repo, slap down all your git commands and do what must be done to "git" it to your GitHub. Yes I make funny, very good.
 
-When you're ready point https://fleek.co/ to your repo get back to your regularly scheduled JAM stack workflow, now on IPFS. Thanks Fleek!
+Then just point https://fleek.co/ to your repo get back to your regularly scheduled JAM stack workflow, now on IPFS. Thanks Fleek!
 
 I'll be configuring a basic styled components starter built off this too, check back soon.
 
