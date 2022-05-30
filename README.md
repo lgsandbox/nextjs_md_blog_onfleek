@@ -16,7 +16,7 @@ npm install && npm run dev - and then start styling.
 
 When ready change the origin to your own repo, slap down all your git commands and do what must be done to "git" it to your GitHub. Yes I make funny, very good.
 
-Then just point https://fleek.co/ to your repo get back to your regularly scheduled JAM stack workflow, now on IPFS. Thanks Fleek!
+Then just point https://fleek.co/ to your repo and BAM just like that you can get back to your regularly scheduled JAM stack workflow, now on IPFS. Thanks Fleek!
 
 I'll be configuring a basic styled components starter built off this too, check back soon.
 
