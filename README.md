@@ -8,14 +8,18 @@ This is the original nextjs/vercel demo version seen here:
 
 This version has been stripped down and reconfigured to work on IPFS with Fleek. This version is free of any styling.
 
-Just type in the following:
+To get starter with the starter:
 
 git clone https://github.com/lpgcode/nextjs_mxd_blog_onfleek.git 
 
-Change your origin to your own repo, push it, hit npm run dev - and then start styling.
+npm install && npm run dev - and then start styling.
+
+When you're ready change the origin to your own repo, slap down all your git commands and do what must be done to get it to your GitHub.
 
 When you're ready point https://fleek.co/ to your repo get back to your regularly scheduled JAM stack workflow, now on IPFS. Thanks Fleek!
 
 I'll be configuring a basic styled components starter built off this too, check back soon.
 
 ## Demo
+
+[https://next-mxd.on.fleek.co/](https://next-mxd.on.fleek.co/)
