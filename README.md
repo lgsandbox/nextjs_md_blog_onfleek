@@ -8,7 +8,7 @@ This is the original nextjs/vercel demo version seen here:
 
 This version has been stripped down and reconfigured to work on IPFS with Fleek. This version is free of any styling.
 
-To get starter with the starter:
+To get started with the starter:
 
 git clone https://github.com/lpgcode/nextjs_mxd_blog_onfleek.git 
 
