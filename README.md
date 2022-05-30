@@ -1,6 +1,6 @@
 # A statically generated blog example using Next.js and Markdown...
 
-#...ON FLEEK
+# ...ON FLEEK
 
 This is the original nextjs/vercel demo version seen here:
 
