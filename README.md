@@ -20,4 +20,4 @@ Then just point https://fleek.co/ to your repo and BAM just like that you can ge
 
 ## Demo
 
-[https://next-mxd.on.fleek.co/](https://next-mxd.on.fleek.co/)
+[https://next-md.on.fleek.co/](https://next-md.on.fleek.co/)
